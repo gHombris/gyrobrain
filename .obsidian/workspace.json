@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "2176738be6515a53",
+    "type": "split",
+    "children": [
+      {
+        "id": "aab569e15a5339f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6a74bbd1e800c8d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "82edb5ba9e11e7e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "4131b8aa3b4c575c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85169efd971afdb0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "c123f8862dff4005",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "f32fad9746734a2e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3b981ba92bccedff",
+    "type": "split",
+    "children": [
+      {
+        "id": "34664e2a4435f590",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b0360288571af7f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos"
+            }
+          },
+          {
+            "id": "c9fb70a4b0704a27",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "6680707f69b2bcad",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "93502e3996ac7052",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "4b49c2b1ede0827a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Índice de Estudos.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Índice de Estudos"
+            }
+          },
+          {
+            "id": "0c66a5192c387cd4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
+      "markdown-importer:Abrir importador Markdown": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Criar um novo quadro": false,
+      "omnisearch:Omnisearch": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "0c66a5192c387cd4",
+  "lastOpenFiles": [
+    "Índice de Estudos.md",
+    "Excalidraw/Drawing 2026-03-20 23.34.27.excalidraw.md",
+    "Kanban sem título.md",
+    "Fiap/Database Design/04 - MER Estendido.md",
+    "Excalidraw",
+    "Fiap/Data Science/04 - Probabilidade e Distribuição.md",
+    "Fiap/Data Science/03 - Análise Exploratória de Dados (EDA).md",
+    "Fiap/Data Science/02 - Variabilidade - Variância e Desvio-Padrão.md",
+    "Fiap/Data Science/01 - Tendência Central - Média, Mediana e Moda.md",
+    "Fiap/Estrutura de dados/01 - Introdução e Busca.md",
+    "Fiap/Estrutura de dados/02 - Análise de Complexidade.md",
+    "Fiap/Estrutura de dados/03 - Arrays.md",
+    "Fiap/Estrutura de dados/04 - Pilhas.md",
+    "Fiap/Network Architect/01 - Introdução e IoT.md",
+    "Sem título.base",
+    "Sem título.canvas",
+    "Fiap/Database Design/03 - Modelo Entidade-Relacionamento (MER).md",
+    "Fiap/Database Design/02 - Os 3 Níveis de Modelagem de Dados.md",
+    "Fiap/Database Design/01 - Conceitos Básicos de Banco de Dados.md",
+    "Fiap/Network Architect/02 - Classificação de redes.md",
+    "Fiap/Network Architect/03 - Modelo OSI e TCP IP.md",
+    "Fiap/Network Architect/Sem título.base",
+    "Livros/Entendendo algoritmos",
+    "Livros",
+    "Fiap/Data Science/04 - Gráficos Analíticos (Visualização de Dados).md",
+    "2026-03-06.md",
+    "Sem título 1.base",
+    "Hyperskill/Java backend developer 266hrs",
+    "Hyperskill",
+    "Fiap/Agile Methodology",
+    "Fiap/Network Architect",
+    "Bem-vindo.md"
+  ]
+}
