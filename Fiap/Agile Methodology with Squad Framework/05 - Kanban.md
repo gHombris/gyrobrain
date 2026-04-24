@@ -1,4 +1,4 @@
-```markdown
+
 ---
 aliases: [Kanban Board, Sistema Puxado, WIP Limit]
 tags: [agil, kanban, lean, toyota, fluxo]
